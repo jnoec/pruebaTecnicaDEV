@@ -1,0 +1,297 @@
+{
+  "Backend.dll": {
+    "C:\\Users\\b41324\\source\\repos\\PruebaTecnica\\dotnet-core-sqlite-swagger-rest-api-master\\Program.cs": {
+      "Backend.Program": {
+        "System.Void Backend.Program::Main(System.String[])": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.Extensions.Hosting.IHostBuilder Backend.Program::CreateHostBuilder(System.String[])": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\b41324\\source\\repos\\PruebaTecnica\\dotnet-core-sqlite-swagger-rest-api-master\\Startup.cs": {
+      "Backend.Startup": {
+        "Microsoft.Extensions.Configuration.IConfiguration Backend.Startup::get_Configuration()": {
+          "Lines": {
+            "26": 0
+          },
+          "Branches": []
+        },
+        "System.Void Backend.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "36": 0
+          },
+          "Branches": []
+        },
+        "System.Void Backend.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)": {
+          "Lines": {
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "49": 0,
+            "51": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0
+          },
+          "Branches": [
+            {
+              "Line": 40,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 9,
+              "EndOffset": 20,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void Backend.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\b41324\\source\\repos\\PruebaTecnica\\dotnet-core-sqlite-swagger-rest-api-master\\Models\\User.cs": {
+      "Backend.Models.User": {
+        "System.Int32 Backend.Models.User::get_Id()": {
+          "Lines": {
+            "5": 8
+          },
+          "Branches": []
+        },
+        "System.String Backend.Models.User::get_Name()": {
+          "Lines": {
+            "6": 10
+          },
+          "Branches": []
+        },
+        "System.String Backend.Models.User::get_Email()": {
+          "Lines": {
+            "7": 10
+          },
+          "Branches": []
+        },
+        "System.String Backend.Models.User::get_Password()": {
+          "Lines": {
+            "8": 10
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\b41324\\source\\repos\\PruebaTecnica\\dotnet-core-sqlite-swagger-rest-api-master\\Models\\UserContext.cs": {
+      "Backend.Models.UserContext": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<Backend.Models.User> Backend.Models.UserContext::get_Users()": {
+          "Lines": {
+            "6": 13
+          },
+          "Branches": []
+        },
+        "System.Void Backend.Models.UserContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<Backend.Models.UserContext>)": {
+          "Lines": {
+            "5": 15
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\b41324\\source\\repos\\PruebaTecnica\\dotnet-core-sqlite-swagger-rest-api-master\\Migrations\\20200617201954_InitialCreate.cs": {
+      "Backend.Migrations.InitialCreate": {
+        "System.Void Backend.Migrations.InitialCreate::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Void Backend.Migrations.InitialCreate::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\b41324\\source\\repos\\PruebaTecnica\\dotnet-core-sqlite-swagger-rest-api-master\\Migrations\\20200617201954_InitialCreate.Designer.cs": {
+      "Backend.Migrations.InitialCreate": {
+        "System.Void Backend.Migrations.InitialCreate::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "15": 0,
+            "17": 0,
+            "18": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "40": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\b41324\\source\\repos\\PruebaTecnica\\dotnet-core-sqlite-swagger-rest-api-master\\Migrations\\UserContextModelSnapshot.cs": {
+      "Backend.Migrations.UserContextModelSnapshot": {
+        "System.Void Backend.Migrations.UserContextModelSnapshot::BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "13": 0,
+            "15": 0,
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "38": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\b41324\\source\\repos\\PruebaTecnica\\dotnet-core-sqlite-swagger-rest-api-master\\Controllers\\UserController.cs": {
+      "Backend.Controllers.UserController": {
+        "Microsoft.AspNetCore.Mvc.ActionResult`1<System.Collections.Generic.List`1<Backend.Models.User>> Backend.Controllers.UserController::Getstrings()": {
+          "Lines": {
+            "22": 1,
+            "23": 1,
+            "24": 1
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.ActionResult`1<Backend.Models.User> Backend.Controllers.UserController::GetstringById(System.Int32)": {
+          "Lines": {
+            "28": 1,
+            "29": 1,
+            "30": 1
+          },
+          "Branches": []
+        },
+        "Backend.Models.User Backend.Controllers.UserController::Poststring(Backend.Models.User)": {
+          "Lines": {
+            "34": 3,
+            "35": 3,
+            "36": 3,
+            "37": 3,
+            "38": 3
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.ActionResult`1<Backend.Models.User> Backend.Controllers.UserController::Putstring(System.Int32,Backend.Models.User)": {
+          "Lines": {
+            "42": 1,
+            "43": 1,
+            "44": 1,
+            "45": 1,
+            "46": 1,
+            "47": 1,
+            "48": 1,
+            "49": 1
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.ActionResult`1<System.Int32> Backend.Controllers.UserController::DeletestringById(System.Int32)": {
+          "Lines": {
+            "53": 1,
+            "54": 1,
+            "55": 1,
+            "56": 1,
+            "57": 1
+          },
+          "Branches": []
+        },
+        "System.Void Backend.Controllers.UserController::.ctor(Backend.Models.UserContext)": {
+          "Lines": {
+            "15": 5,
+            "16": 5,
+            "17": 5,
+            "18": 5
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

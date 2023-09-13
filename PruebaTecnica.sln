@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Backend", "dotnet-core-sqlite-swagger-rest-api-master\Backend.csproj", "{40F319F3-B4A7-42FF-B454-1D6708A66461}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XUnit.Coverlet.Collector", "XUnit.Coverlet.Collector\XUnit.Coverlet.Collector.csproj", "{84B884A4-677E-4AF0-8FFF-84F114FF11FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40F319F3-B4A7-42FF-B454-1D6708A66461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F319F3-B4A7-42FF-B454-1D6708A66461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F319F3-B4A7-42FF-B454-1D6708A66461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F319F3-B4A7-42FF-B454-1D6708A66461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B884A4-677E-4AF0-8FFF-84F114FF11FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B884A4-677E-4AF0-8FFF-84F114FF11FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B884A4-677E-4AF0-8FFF-84F114FF11FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B884A4-677E-4AF0-8FFF-84F114FF11FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB867B8A-173E-40B6-9794-F133CF971CC1}
+	EndGlobalSection
+EndGlobal
